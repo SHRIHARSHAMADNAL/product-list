@@ -1,0 +1,59 @@
+{
+    "products": [
+        {
+            "name": "Apple",
+            "price": 10,
+            "details": "Fresh, juicy apples"
+          },
+          {
+            "name": "Banana",
+            "price": 30,
+            "details": "Ripe, yellow bananas"
+          },
+          {
+            "name": "Milk",
+            "price": 5,
+            "details": "1L of fresh milk"
+          },
+          {
+            "name": "Bread",
+            "price": 2,
+            "details": "Loaf of whole wheat bread"
+          },
+          {
+            "name": "Eggs",
+            "price": 2,
+            "details": "Dozen eggs from free-range chickens"
+          },
+          {
+            "name": "Chicken",
+            "price": 2,
+            "details": "Boneless, skinless chicken breast"
+          },
+          {
+            "name": "Tomato",
+            "price": 15,
+            "details": "Fresh, ripe tomatoes"
+          },
+          {
+            "name": "Potato",
+            "price": 10,
+            "details": "Bag of medium-sized potatoes"
+          },
+          {
+            "name": "Cucumber",
+            "price":5,
+            "details": "Crisp, green cucumbers"
+          },
+          {
+            "name": "Yogurt",
+            "price": 6,
+            "details": "500g of creamy yogurt"
+          }
+    ]
+  }
+  
+  
+  
+  
+  
